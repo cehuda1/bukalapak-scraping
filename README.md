@@ -1,6 +1,6 @@
-# Tokopedia Web Scraping
+# Bukalapak Web Scraping
 
-Tokopedia Web Scraping is a Python script designed to extract product data from the popular Indonesian e-commerce platform, Tokopedia. This tool utilizes the power of Selenium and BeautifulSoup to automate the data collection process, making it easy to gather information about products of interest.
+bukalapak Web Scraping is a Python script designed to extract product data from the popular Indonesian e-commerce platform, bukalapak. This tool utilizes the power of Selenium and BeautifulSoup to automate the data collection process, making it easy to gather information about products of interest.
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ Getting up and running is a straightforward process:
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/cehuda/tokopedia-scraping.git
+   git clone https://github.com/cehuda/bukalapak-scraping.git
 2. Install the necessary Python packages:
    
    ```
@@ -27,12 +27,12 @@ Getting up and running is a straightforward process:
 
 # Usage
 
-Using the Tokopedia Web Scraping tool is as simple as running a Python script:
+Using the bukalapak Web Scraping tool is as simple as running a Python script:
 
 1. Execute the script:
 
     ```
-    python tokopedia_scraper.py
+    python scraping.py
 2. Follow the prompts to enter the product name and page number you wish to scrape.
 
 3. Sit back and let the script do the work for you.
@@ -46,4 +46,4 @@ Credits
 This script was originally created by @cehuda. We extend our gratitude for their valuable contribution.
 License
 
-Tokopedia Web Scraping is released under the MIT License. For more details, please refer to the LICENSE file.
+bukalapak Web Scraping is released under the MIT License. For more details, please refer to the LICENSE file.
