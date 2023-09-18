@@ -19,30 +19,30 @@ Getting up and running is a straightforward process:
 
 1. Clone this repository to your local machine:
 
-   ```bash
+   ```
    git clone https://github.com/cehuda/tokopedia-scraping.git
 
-   Install the necessary Python packages:
+2. Install the necessary Python packages:
+   
+   ```
+   pip install selenium beautifulsoup4
 
-    pip install selenium beautifulsoup4
+4. Download ChromeDriver and place it in the project directory.
 
-Download ChromeDriver and place it in the project directory.
-
-Usage
+# Usage
 
 Using the Tokopedia Web Scraping tool is as simple as running a Python script:
 
-   Execute the script:
+1. Execute the script:
 
-    ```bash
-
+    ```
     python tokopedia_scraper.py
 
-    Follow the prompts to enter the product name and page number you wish to scrape.
+2. Follow the prompts to enter the product name and page number you wish to scrape.
 
-    Sit back and let the script do the work for you.
+3. Sit back and let the script do the work for you.
 
-Output
+# Output
 
 The scraped product data will be displayed in your console, allowing you to view, analyze, or save it to a file for further use.
 Credits
