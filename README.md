@@ -20,23 +20,21 @@ Getting up and running is a straightforward process:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/tokopedia-web-scraping.git
+   git clone https://github.com/cehuda/tokopedia-scraping.git
 
-    Install the necessary Python packages:
-
-    bash
+   Install the necessary Python packages:
 
     pip install selenium beautifulsoup4
 
-    Download ChromeDriver and place it in the project directory.
+Download ChromeDriver and place it in the project directory.
 
 Usage
 
 Using the Tokopedia Web Scraping tool is as simple as running a Python script:
 
-    Execute the script:
+   Execute the script:
 
-    bash
+    ```bash
 
     python tokopedia_scraper.py
 
@@ -53,8 +51,3 @@ This script was originally created by @cehuda. We extend our gratitude for their
 License
 
 Tokopedia Web Scraping is released under the MIT License. For more details, please refer to the LICENSE file.
-
-csharp
-
-
-You can copy and paste this entire script into your README.md file on GitHub. Make sure to replace `"yourusername"` with your actual GitHub username and customize any other details as needed.
