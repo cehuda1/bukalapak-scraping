@@ -18,12 +18,12 @@ Getting up and running is a straightforward process:
 
 
 git clone https://github.com/yourusername/tokopedia-web-scraping.git
-```
+
     Install the necessary Python packages:
+
 ```
-
 pip install selenium beautifulsoup4
-
+```
     Download ChromeDriver and place it in the project directory.
 
 # Usage
