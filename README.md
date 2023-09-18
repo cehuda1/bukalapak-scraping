@@ -39,7 +39,7 @@ Using the Tokopedia Web Scraping tool is as simple as running a Python script:
 
 # Output
 
-![Alt Text](images/sample.png)
+![Alt Text](images/image.png)
 The scraped product data will be displayed in your console, allowing you to view, analyze, or save it to a file for further use.
 Credits
 
