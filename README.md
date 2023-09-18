@@ -1,45 +1,50 @@
+markdown
+
 # Tokopedia Web Scraping
 
 Tokopedia Web Scraping is a Python script designed to extract product data from the popular Indonesian e-commerce platform, Tokopedia. This tool utilizes the power of Selenium and BeautifulSoup to automate the data collection process, making it easy to gather information about products of interest.
-Prerequisites
+
+## Prerequisites
 
 Before you get started, ensure that you meet the following requirements:
 
-    Python 3.x
-    ChromeDriver
-    Selenium
-    BeautifulSoup
+- Python 3.x
+- ChromeDriver
+- Selenium
+- BeautifulSoup
 
-# Installation
+## Installation
 
 Getting up and running is a straightforward process:
 
-    Clone this repository to your local machine:
+1. Clone this repository to your local machine:
 
-
-git clone https://github.com/yourusername/tokopedia-web-scraping.git
+   ```bash
+   git clone https://github.com/yourusername/tokopedia-web-scraping.git
 
     Install the necessary Python packages:
 
-```
-pip install selenium beautifulsoup4
-```
+    bash
+
+    pip install selenium beautifulsoup4
+
     Download ChromeDriver and place it in the project directory.
 
-# Usage
+Usage
 
 Using the Tokopedia Web Scraping tool is as simple as running a Python script:
 
     Execute the script:
 
-```
-python tokopedia_scraper.py
-```
+    bash
+
+    python tokopedia_scraper.py
+
     Follow the prompts to enter the product name and page number you wish to scrape.
 
     Sit back and let the script do the work for you.
 
-# Output
+Output
 
 The scraped product data will be displayed in your console, allowing you to view, analyze, or save it to a file for further use.
 Credits
@@ -48,3 +53,8 @@ This script was originally created by @cehuda. We extend our gratitude for their
 License
 
 Tokopedia Web Scraping is released under the MIT License. For more details, please refer to the LICENSE file.
+
+csharp
+
+
+You can copy and paste this entire script into your README.md file on GitHub. Make sure to replace `"yourusername"` with your actual GitHub username and customize any other details as needed.
