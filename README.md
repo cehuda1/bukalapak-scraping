@@ -1,5 +1,3 @@
-markdown
-
 # Tokopedia Web Scraping
 
 Tokopedia Web Scraping is a Python script designed to extract product data from the popular Indonesian e-commerce platform, Tokopedia. This tool utilizes the power of Selenium and BeautifulSoup to automate the data collection process, making it easy to gather information about products of interest.
@@ -21,12 +19,10 @@ Getting up and running is a straightforward process:
 
    ```
    git clone https://github.com/cehuda/tokopedia-scraping.git
-
 2. Install the necessary Python packages:
    
    ```
    pip install selenium beautifulsoup4
-
 4. Download ChromeDriver and place it in the project directory.
 
 # Usage
@@ -37,7 +33,6 @@ Using the Tokopedia Web Scraping tool is as simple as running a Python script:
 
     ```
     python tokopedia_scraper.py
-
 2. Follow the prompts to enter the product name and page number you wish to scrape.
 
 3. Sit back and let the script do the work for you.
